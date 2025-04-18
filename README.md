@@ -14,7 +14,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ---
 
-![learn](https://imgur.com/DY2IoaL.png)
+![learn](...)
 
 ## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)]
 
@@ -22,7 +22,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ---
 
-![git](https://imgur.com/TCiZWsZ.png)
+![git](---)
 
 ## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sen-749a64284)  
 
@@ -32,7 +32,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ---
 
-![repos](https://imgur.com/TCiZWsZ.png)
+![repos](---)
 
 ## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa?tab=repositories)
 
@@ -52,7 +52,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ## [![📝 My Recent Blog Posts & Articles](https://img.shields.io/badge/My_Recent_Blog_Posts_%26_Articles-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)
 
-![blog](https://imgur.com/fja3q42.png)
+![blog](---)
 
 ### 📌 Stay updated with DevOps trends, best practices, and hands-on guides!
 
@@ -72,7 +72,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/Chetan6969)  
 
-![tech](https://imgur.com/RknLHXQ.png)
+![tech](---)
 
 | ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation |
 |----------------|----------------|----------------|----------------|----------------|
