@@ -10,13 +10,13 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.  
 🔹 **Content Creator** – I write blogs, create projects, and share everything I learn to help others grow in DevOps!  
 
-![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-00BFFF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Let's innovate, automate, and optimize!](---)
 
 ---
 
 ![learn](https://imgur.com/DY2IoaL.png)
 
-## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)](https://link.notharshhaa.site)
+## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)]
 
 [![Portfolio](https://chetansen.netlify.app)
 
@@ -26,7 +26,7 @@ Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a missio
 
 ## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sen-749a64284)  
 
-![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-8A2BE2?style=for-the-badge&logo=Handshake&logoColor=white)
+![Connect & Collaborate](---)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sen-749a64284) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetan6969) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](TeligramLink) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetansen2004@gmail.com)
 
