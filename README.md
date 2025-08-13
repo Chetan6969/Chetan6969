@@ -28,7 +28,7 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-> *Backend-focused B.Tech Computer Science candidate (Class of 2026) with expertise in system architecture, API development, and database optimization. Skilled in designing scalable distributed systems and implementing RESTful services using Node.js and MongoDB.*
+> *Linux Administrator and DevOps Engineer with expertise in server management, automation, and continuous integration/delivery pipelines*
 
 <br>
 
