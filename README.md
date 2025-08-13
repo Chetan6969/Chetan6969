@@ -1,99 +1,288 @@
-# **🚀 About Me**  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, **Navneet** this side!
 
-## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://chetansen.netlify.app)
-
-![aboutme](https://www.canva.com/design/DAGk8pHGHC8/Zy8Qx-LqInhE8cL8tyGARw/view?utm_content=DAGk8pHGHC8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2245f7da87)
-
-Hey there! 👋 I'm **Chetan Sen**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
-
-🔹 **Cloud & DevOps Enthusiast** – Architecting scalable, secure, and high-performance infrastructures using AWS, Azure, Kubernetes, Terraform, and more.  
-🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.  
-🔹 **Content Creator** – I write blogs, create projects, and share everything I learn to help others grow in DevOps!  
-
-![Let's innovate, automate, and optimize!](---)
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Backend+Architect;System+Designer;Open+Source+Contributor)
+  
+  <p><em>🚀 A Passionate Problem Solver & Full-Stack Developer from India 🇮🇳</em></p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  
+</div>
 
 ---
 
-![learn](...)
+<div align="center">
 
-## [![Useful Links](https://img.shields.io/badge/Useful_Links-0A0A0A?style=for-the-badge&logo=link&logoColor=white)]
+### 📊 **Profile Analytics**
 
-[![Portfolio](https://chetansen.netlify.app)
+<img src="https://komarev.com/ghpvc/?username=navneet1206&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=navneet1206&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-![git](---)
-
-## [![Find Me Online](https://img.shields.io/badge/Find_Me_Online-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sen-749a64284)  
-
-![Connect & Collaborate](---)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sen-749a64284) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetan6969) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](TeligramLink) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetansen2004@gmail.com)
+</div>
 
 ---
 
-![repos](---)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## [![Featured DevOps Repositories](https://img.shields.io/badge/Featured_Repos-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa?tab=repositories)
+## 🙋🏻‍♂️ **About Me**
 
-🔹 **[DevOps Real-Time Projects (Beginner to Advanced)](---)**  
-🔹 **[Kubernetes Learning Path - From Zero to Pro](---)**  
-🔹 **[550+ DevOps Interview Questions](---)**  
-🔹 **[AWS DevOps Real-Time Deployment: Dev → Pre-Prod → Production](---)**  
-🔹 **[End-to-End CI/CD Pipeline Deployment on AWS EKS](---)**  
-🔹 **[DevOps Tool Installer & Uninstaller](---)**  
-🔹 **[Azure DevOps: Zero to Hero Guide](---)**  
-🔹 **[Terraform: Deploy an EKS Cluster Like a Pro](---)**  
-🔹 **[DevOps Cheatsheet](---)**  
+> *Backend-focused B.Tech Computer Science candidate (Class of 2026) with expertise in system architecture, API development, and database optimization. Skilled in designing scalable distributed systems and implementing RESTful services using Node.js and MongoDB.*
 
-[![Explore all my Git repositories](https://img.shields.io/badge/Explore%20all%20my%20GitHub%20Repositories-24292E?style=for-the-badge&logo=github&logoColor=white)](---)
+<br>
 
----
+- 🎓 **Education**: B.Tech CSE, AKS University **(GPA: 8.21)**
+- 💼 **Current Role**: Co-Founder & CTO @ **SavayasHeal**
+- 🌱 **Currently Learning**: System Design, DevOps, Linux Internals
+- 🔬 **Research**: Published **IEEE paper** on facial recognition security
+- 💡 **Passionate About**: Building scalable backends, blockchain integration, ethical hacking platforms
+- 📫 **Reach me**: **[rajvl132011@gmail.com](mailto:rajvl132011@gmail.com)**
+- ⚡ **Fun Fact**: I've contributed to **15+ open-source projects** with a **98% bug resolution rate**!
 
-## [![📝 My Recent Blog Posts & Articles](https://img.shields.io/badge/My_Recent_Blog_Posts_%26_Articles-FF5722?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)
-
-![blog](---)
-
-### 📌 Stay updated with DevOps trends, best practices, and hands-on guides!
-
-[![dev.to Articles](https://img.shields.io/badge/dev.to%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa)  
-[![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](https://Chetan6969/scripting) [![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](https://dev.to/prodevopsguytech/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona) [![✍️ 50+ DevOps Project Ideas](https://img.shields.io/badge/50%2B_DevOps_Project_Ideas-1976D2?style=for-the-badge&logo=github&logoColor=white)](https://dev.to/prodevopsguytech/50-devops-project-ideas-to-build-your-skills-from-beginner-to-advanced-3e07)
-
-[![Check out my full blog archive on Dev.to](https://img.shields.io/badge/Read%20all%20blogs%20on%20Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://chetansen.netlify.app)  
+<br clear="both"/>
 
 ---
 
-[![📌 Hashnode Blogs](---)  
-[![📌 Docker Concepts](---)
+<div align="center">
 
-[![Explore all my DevOps blogs on Hashnode](---)
+## 📈 **GitHub Statistics**
 
----
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navneet1206&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1206&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
 
-## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/Chetan6969)  
+<img src="https://github-readme-streak-stats.demolab.com?user=navneet1206&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
 
-![tech](---)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet1206&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation |
-|----------------|----------------|----------------|----------------|----------------|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
-| ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-%23000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) | ![Packer](https://img.shields.io/badge/Packer-%23326ce5.svg?style=for-the-badge&logo=packer&logoColor=white) |
+</div>
 
 ---
 
-## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chetan6969)  
+## 💼 **Professional Experience**
 
-| <a href="https://github.com/Chetan6969/DevOps-Projects"><img align="center" src="https://github/Chetan6969" alt="Chetan's github stats" /></a> | <a href="https://github.com/Chetan6969/"><img align="center" src="https://github/Chetan6969" /></a> |
-| ------------- | ------------- |
+<div align="left">
+
+### 🚀 **Full-Stack Developer** @ [Gatiyan.com](https://gatiyan.com)
+**📅 Jan 2025 – May 2025**
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🏗️ **Architected** and optimized backend services for ride-sharing platform using **Node.js & MongoDB**
+- 🔧 Ensured **high availability** with Linux clusters and load balancing
+- ⚡ **Reduced REST API latency by 25%** through query optimization and caching
+- 🛡️ Implemented robust security measures and authentication systems
+
+<br>
+
+### 🔬 **Student Researcher** @ AKS University
+**📅 Jul 2022 – Present**
+
+- 📝 Co-authored **IEEE paper** on deep learning; built efficient Python data pipelines
+- 🌟 Contributed to **15+ open-source** backend modules, resolving **98% of bugs**
+- 🔐 Conducted security audits and implemented fixes for critical vulnerabilities
+- 🧪 Research focus on **facial recognition security** and **AI/ML applications**
+
+</div>
 
 ---
 
-## [![Support My Work](https://img.shields.io/badge/Support_My_Work-FF5722?style=for-the-badge&logo=ko-fi&logoColor=white)]
+<div align="center">
 
-> [!IMPORTANT]
->
-> **If my projects and content help you, consider supporting me! Every bit of support helps in creating more awesome DevOps projects and guides! 💖**
->
+## 🛠️ **Tech Arsenal**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad6bf8e47.gif" width="100">
+
+### **Languages & Runtimes**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,c,cpp,solidity,python" />
+</div>
+
+### **Frameworks & Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,react,flutter,nextjs,tailwind" />
+</div>
+
+### **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,postman,vscode,aws,nginx,redis" />
+</div>
+
+### **Specializations**
+<div>
+  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+</div>
+
 ---
 
+## 🚀 **Featured Projects**
+
+<div align="center">
+  
+  <a href="https://devfolio.co/@Navneet1206">
+    <img src="https://img.shields.io/badge/🔗_Devfolio_Profile-FF6B6B?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://navneet-portfolio.netwaycabs.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-4ECDC4?style=for-the-badge&logoColor=white" />
+  </a>
+  
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 **SavayasHeal.com**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="250" align="right"/>
+
+**Scalable MERN-stack healthcare platform**
+- 🎥 Real-time doctor-patient video consultations
+- 🔄 WebRTC integration for seamless communication
+- 📊 Advanced patient management system
+- 🛡️ HIPAA-compliant security implementation
+
+**Tech:** `MERN` `WebRTC` `Socket.io` `JWT`
+
+</td>
+<td width="50%">
+
+### 🔐 **Ethical Hacking Platform**
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="250" align="right"/>
+
+**LeetCode-style cybersecurity challenges**
+- 🎯 Auto-validation challenge engine
+- 🏆 Gamified learning experience
+- 📈 Progress tracking and leaderboards
+- 🔧 Custom sandboxed environments
+
+**Tech:** `Node.js` `Docker` `MongoDB` `Redis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 **Gatiyan.com Backend**
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="250" align="right"/>
+
+**High-performance ride-sharing API**
+- ⚡ 25% latency reduction through optimization
+- 🔄 Load balancing and clustering
+- 📊 Advanced caching strategies
+- 🗄️ Optimized database queries
+
+**Tech:** `Express.js` `MongoDB` `Redis` `Nginx`
+
+</td>
+<td width="50%">
+
+### 🎤 **Speech Processing System**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="250" align="right"/>
+
+**Real-time speech recognition & translation**
+- 🗣️ Multi-language speech processing
+- 🔄 Real-time translation capabilities
+- 🤖 AI-powered accuracy improvements
+- 📱 Cross-platform compatibility
+
+**Tech:** `Python` `TensorFlow` `WebSockets` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 **Achievements & Certifications**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
+<div align="left">
+
+### 🎖️ **Professional Certifications**
+- 🏅 **Goldman Sachs Engineering**: Security Assessment & Vulnerability Analysis
+- 🏅 **Skill India Certified**: Junior Software Developer (MERN Stack)
+- 🏅 **IEEE Published Researcher**: Facial Recognition Security Systems
+
+### 🏆 **Competition Achievements**
+- 🥈 **Hackathon Finalist**: Thrilex 2024, AKS University
+- 🌟 **Open Source Contributor**: 15+ projects, 98% bug resolution rate
+- 📈 **Performance Optimizer**: 25% latency reduction in production systems
+
+### 📊 **Academic Excellence**
+- 🎓 **GPA**: 8.21/10.0 (B.Tech Computer Science)
+- 📜 **Higher Secondary**: 84.72% (Government HSS Excellence)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<div>
+  <a href="https://www.linkedin.com/in/Navneet1206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/navneet1206">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:rajvl132011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/navneet1206_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<div>
+  <a href="https://www.leetcode.com/Navneet1206">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://fb.com/navneet1206">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/navneet1206">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devfolio.co/@Navneet1206">
+    <img src="https://img.shields.io/badge/Devfolio-FF6B6B?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+### 🚀✨ **Thanks for visiting! Let's build something amazing together!** ✨🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
