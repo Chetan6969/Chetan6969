@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td>
+
 ```text
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -41,3 +45,23 @@
 :::::-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+-+#%#*++-=%@@*-::::::
 
 ```
+
+</td>
+
+<td valign="top">
+
+# Hi 👋 I'm Chetan Sen
+
+💻 Full Stack Developer
+
+🖥️ IT Head
+
+🌱 Currently building an Enterprise ERP
+
+⚙️ Linux • Networking • Node.js • React
+
+📍 Madhya Pradesh, India
+
+</td>
+</tr>
+</table>
