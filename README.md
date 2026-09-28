@@ -1,13 +1,8 @@
 <div align="center">
 
-  <!-- HERO BANNER (CINEMATIC SERVER OPERATIONS & DEVOPS) -->
-  <img src="assets/header_banner.png" alt="Chetan Sen Banner" width="100%" />
-
-  <br/><br/>
-
-  <!-- DYNAMIC TYPING SVG -->
+  <!-- GRAPHIC TECH BANNER (REAL PHOTO + CYBER GRID + HIGH-RES TYPOGRAPHY) -->
   <a href="https://chetan-sen.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=System+Administrator+%26+DevOps+Engineer;Enterprise+Infrastructure+%7C+Linux+Hardening;Cloud+Architect+%7C+AWS+%7C+Docker+%7C+Kubernetes;C%2B%2B+Systems+Hacker+%7C+Custom+2MB+Memory+Allocator;IT+Head+%40+RMM+Agro+%7C+DevOps+Intern+%40+Rostris;IBM+National+Hackathon+2025+Runner-Up" alt="Typing SVG" />
+    <img src="assets/header_banner.png" alt="Chetan Sen - System Administrator & DevOps Engineer" width="100%" />
   </a>
 
   <br/><br/>
