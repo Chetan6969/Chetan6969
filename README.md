@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
+  <!-- HERO BANNER (CINEMATIC SERVER OPERATIONS & DEVOPS) -->
   <img src="assets/header_banner.png" alt="Chetan Sen Banner" width="100%" />
 
   <br/><br/>
@@ -55,7 +55,7 @@
 
 <table border="0">
  <tr>
-    <td width="70%">
+    <td width="72%">
       <h2><img src="assets/hi.gif" width="32px" style="vertical-align: middle;" /> About Me</h2>
       <p>
         Hey there! I'm <b>Chetan Sen</b> — a passionate <b>Linux System Administrator</b>, <b>DevOps Engineer</b>, and <b>Systems Developer</b> obsessed with building highly available server environments, automating infrastructure lifecycles, and engineering low-level performant software.
@@ -69,9 +69,9 @@
         <li>💬 Ask me about: <b>Linux Kernel internals</b>, <b>Ansible automation</b>, <b>Docker/K8s clustering</b>, <b>Reverse proxies</b>, and <b>C++ memory management</b>!</li>
       </ul>
     </td>
-    <td width="30%" align="center">
-      <img src="assets/technologist.png" width="180px" alt="Chetan Sen Avatar" /><br/>
-      <img src="assets/astronaut.png" width="100px" alt="Chetan Astronaut" />
+    <td width="28%" align="center">
+      <img src="assets/chetan_avatar.png" width="180px" alt="Chetan Sen Profile" style="border-radius: 50%;" /><br/><br/>
+      <img src="assets/astronaut.png" width="95px" alt="Chetan Astronaut" />
     </td>
  </tr>
 </table>
